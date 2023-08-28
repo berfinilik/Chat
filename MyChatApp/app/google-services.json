@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27524415065",
+    "project_id": "chatuygulamam-1b2fc",
+    "storage_bucket": "chatuygulamam-1b2fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27524415065:android:3a813ef663f3555c88fb48",
+        "android_client_info": {
+          "package_name": "com.berfinilik.mychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27524415065-egvcl3fd2ejou68ge39k44b944ca5jqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfXvu_hPxyTd39fnCK1Q3JcmZ_jwgD6fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27524415065-egvcl3fd2ejou68ge39k44b944ca5jqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
